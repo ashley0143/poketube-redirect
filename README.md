@@ -4,4 +4,4 @@
    
   # PokeTube redirect
  
-  Redirect website for poketube
+  Redirect website for poketube owo
